@@ -1,4 +1,4 @@
 gea-webmod
 ==========
 
-Grupo de Experimentación Autónoma RFuC
+Grupo de Experimentación Autónoma WebMod
