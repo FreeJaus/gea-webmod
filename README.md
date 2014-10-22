@@ -1,1 +1,2 @@
-Web page of the project WebMod
+gea-webmod project web page
+==========
